@@ -11,6 +11,9 @@
 			"@type": "Painting"
 		},
 		{
+			"@type": "Painting"
+		},
+		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528646446.png",
 			"name": "Fishwall",
 			"@type": "Painting"
